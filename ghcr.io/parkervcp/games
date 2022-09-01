@@ -1,0 +1,2 @@
+FROM ghcr.io/parkervcp/games:source
+LABEL MAINTAINER=yxw770@gmail.com BUILDTYPE=Aliyun
